@@ -23,5 +23,3 @@ Here are some results
 <p align="center">
   <img width=300 src="imgs/227092_seg.png">
 </p>
-
-To use GMM for this task, we have to specify the number of clusters that we want in our segmentation. This is not ideal in many situations, however, we can use cross validation to decide the number of clusters. See ```assignment2_part2.m``` for the cross validation code.
